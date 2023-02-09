@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Hard Times",
+      "id": 2
+    },
+    {
+      "title": "Harry Potter",
+      "id": 3
+    },
+    {
+      "title": "Peace and War",
+      "id": 4
+    }
+  ]
+}
